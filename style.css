@@ -1,0 +1,61 @@
+#mydiv {
+    color: black;
+    font-weight: bold;
+}
+
+#mybtn {
+    background-color: black;
+    color: orange;
+}
+
+.header {
+    margin-bottom: 30px;
+    padding: 60px;
+    background: lightblue;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
+
+.btn {
+    background-color: blue;
+    border: none;
+    border-radius: 15px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    cursor: pointer;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.text {
+    display: block;
+    font-size: 1.17em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.score{
+    font-weight: bold;
+    display: inline-block;
+    color: green;
+    text-decoration: solid;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header2 {
+    margin-bottom: 40px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+    text-align: center;
+    background-color: brown;
+}
